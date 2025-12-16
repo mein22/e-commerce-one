@@ -84,7 +84,7 @@
         <div
           class="h-16 w-16 bg-black border-7 border-gray-400 rounded-4xl flex items-center justify-center mx-auto mb-3"
         >
-          <img src="@/assets/icons/icon-secure.png" class="h-8" />
+          <img src="@/assets/icons/Icon-secure.png" class="h-8" />
         </div>
         <h3 class="font-bold">MONEY BACK GUARANTEE</h3>
         <p class="text-gray-600 text-sm">We return money within 30 days</p>
