@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
 import store from "../store";
+
 // Layouts
 import AuthLayout from "../Layouts/AuthLayout.vue";
 import GeneralLayout from "../Layouts/GeneralLayout.vue";
