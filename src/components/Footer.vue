@@ -60,10 +60,10 @@
           <img src="../assets/appstore.png" class="w-28" />
         </div>
         <div class="flex space-x-5 mt-5">
-          <img src="../assets/icons/icon-Facebook.png" class="w-25" />
-          <img src="../assets/icons/icon-Twitter.png" class="w-25" />
+          <img src="../assets/icons/Icon-Facebook.png" class="w-25" />
+          <img src="../assets/icons/Icon-Twitter.png" class="w-25" />
           <img src="../assets/icons/icon-instagram.png" class="w-25" />
-          <img src="../assets/icons/icon-Linkedin.png" class="w-25" />
+          <img src="../assets/icons/Icon-Linkedin.png" class="w-25" />
         </div>
       </div>
     </div>
